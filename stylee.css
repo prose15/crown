@@ -2770,8 +2770,8 @@ figcaption {
 
 .slide {
     position: static;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://assets.website-files.com/603f4fa8460be240318c62b8/6040cfb390635a6418dd8fab_Hero%20BG.jpg");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://assets.website-files.com/603f4fa8460be240318c62b8/6040cfb390635a6418dd8fab_Hero%20BG.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://images.unsplash.com/photo-1566303052303-b2d2a9f16f0a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvbmRpY2hlcnJ5fGVufDB8fDB8fHww");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://images.unsplash.com/photo-1566303052303-b2d2a9f16f0a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBvbmRpY2hlcnJ5fGVufDB8fDB8fHww");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
 }
@@ -2867,8 +2867,8 @@ figcaption {
 
 .slide-2 {
     position: static;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://assets.website-files.com/603f4fa8460be240318c62b8/6048a2026027174b11a20801_Room03.jpg");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://assets.website-files.com/603f4fa8460be240318c62b8/6048a2026027174b11a20801_Room03.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://images.unsplash.com/photo-1658899017868-419c0011fe79?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBvbmRpY2hlcnJ5JTIwYmVhY2h8ZW58MHx8MHx8fDA%3D");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://images.unsplash.com/photo-1658899017868-419c0011fe79?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBvbmRpY2hlcnJ5JTIwYmVhY2h8ZW58MHx8MHx8fDA%3D");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
 }
@@ -3284,16 +3284,16 @@ figcaption {
 
 .slide-3 {
     position: static;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://assets.website-files.com/603f4fa8460be240318c62b8/604899e40e90e1818eba1e7f_Modern%20room.jpg");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://assets.website-files.com/603f4fa8460be240318c62b8/604899e40e90e1818eba1e7f_Modern%20room.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://meetovertheweekend.in/wp-content/uploads/2023/07/pondi.jpeg");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://meetovertheweekend.in/wp-content/uploads/2023/07/pondi.jpeg");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
 }
 
 .slide-4 {
     position: static;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://assets.website-files.com/603f4fa8460be240318c62b8/6046820a4558d23a12eba460_Events01.jpg");
-    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://assets.website-files.com/603f4fa8460be240318c62b8/6046820a4558d23a12eba460_Events01.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(99, 104, 111, 0)), to(rgba(99, 104, 111, 0.7))), url("https://c1.wallpaperflare.com/preview/153/998/571/matrimandir-meditation-auroville-india-pondicherry-harmony.jpg");
+    background-image: linear-gradient(180deg, rgba(99, 104, 111, 0) 30%, rgba(99, 104, 111, 0.7)), url("https://c1.wallpaperflare.com/preview/153/998/571/matrimandir-meditation-auroville-india-pondicherry-harmony.jpg");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
 }
@@ -3710,7 +3710,7 @@ figcaption {
     bottom: auto;
     width: 100%;
     height: 100%;
-    background-image: url("https://assets.website-files.com/603f4fa8460be240318c62b8/6040cfb33efb82b089757912_Menu%20BG.jpg");
+    background-image: url("./assets/asset-12.jpeg");
     background-position: 50% 50%;
     background-size: auto;
     background-repeat: no-repeat;
